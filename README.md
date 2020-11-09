@@ -354,3 +354,4 @@ Gobot is released with a Contributor Code of Conduct. By participating in this p
 Copyright (c) 2013-2019 The Hybrid Group. Licensed under the Apache 2.0 license.
 
 The Contributor Covenant is released under the Creative Commons Attribution 4.0 International Public License, which requires that attribution be included.
+
